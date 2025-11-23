@@ -1,0 +1,18 @@
+Start
+  │
+  ▼
+Install Wireshark
+  │
+Capture Interface
+  │
+Generate Traffic
+  │
+Stop Capture
+  │
+Filter (HTTP/DNS/TCP)
+  │
+Identify Protocols
+  │
+Export .pcap & Summarize
+  ▼
+End
